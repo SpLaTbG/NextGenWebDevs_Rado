@@ -1,4 +1,4 @@
-console.log("banan")
+console.log("Buton")
 var content = document.getElementById("ime")
 var button = document.getElementById("show-more")
 
